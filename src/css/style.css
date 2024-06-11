@@ -1117,6 +1117,7 @@ footer{
         justify-content: center;
         justify-content: space-around;
         padding-right: 0px;
+        padding: 0px;
         font-size: 10px;
     }
     /* CABEÇALHO FIM */
