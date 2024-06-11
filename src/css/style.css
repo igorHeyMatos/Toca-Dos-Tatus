@@ -1113,7 +1113,6 @@ footer{
     }
 
     .menu {
-        width: 80vw;
         display: flex;
         align-items: center;
         justify-content: center;
