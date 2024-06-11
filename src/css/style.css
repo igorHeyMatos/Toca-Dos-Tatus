@@ -1106,10 +1106,14 @@ footer{
 @media screen and (max-width: 630px){
 
     /* CABEÇALHO INÍCIO */
-    .logo{
-        width: 50vw;
+
+    .titulot-logo {
+        font-size: 25px;
+        width: 80vw;
     }
+
     .menu {
+        width: 80vw;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -1127,18 +1131,32 @@ footer{
     }
     
     .foto-apresentacao {
-        width: 120px;
-        height: 290px;
+        width: 70px;
+        height: 250px;
         align-items: normal;
     }
 
     .apresentacao-foto {
         border-radius: 50%;
-        width: 100px;
-        height: 100px;
+        width: 70px;
+        height: 70px;
     }
 
     /* CONTEÚDO PRINCIPAL FIM */
+
+    /* NAVBAR INÍCIO */
+    #itens-barra-principal1 {
+        font-size: 14px;
+    }
+
+    #itens-barra-principal2 {
+        font-size: 14px;
+    }
+
+    #itens-barra-principal3 {
+        font-size: 14px;
+    }
+    /* NAVBAR FIM */
 
     /* OBJETIVO INÍCIO */
     .objetivo-parte-1 {
