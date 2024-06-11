@@ -1172,8 +1172,6 @@ footer{
     .objetivo-foto {
         grid-column: 1 / 4;
         grid-row: 2 / 3;
-        width: 80vw;
-        margin: auto;
     }
 
     .foto-objetivo {
