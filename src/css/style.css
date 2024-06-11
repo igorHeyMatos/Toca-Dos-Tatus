@@ -1107,8 +1107,8 @@ footer{
 
     /* CABEÇALHO INÍCIO */
 
-    .titulot-logo {
-        font-size: 20px;
+    .titulo-logo {
+        font-size: 18px;
         width: 80vw;
     }
 
@@ -1119,7 +1119,7 @@ footer{
         justify-content: center;
         justify-content: space-around;
         padding-right: 0px;
-        font-size: 14px;
+        font-size: 10px;
     }
     /* CABEÇALHO FIM */
 
