@@ -1176,6 +1176,7 @@ footer{
     }
 
     .foto-objetivo {
+        margin: auto;
         width: 380px;
         height: 250px;
     }
@@ -1200,7 +1201,7 @@ footer{
 
     /* ADOÇÃO INÍCIO */
     .imagem-adocao {
-        width: 350px;
+        width: 380px;
         height: 250px;
     }
     /* ADOÇÃO FIM */
